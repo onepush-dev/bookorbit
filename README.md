@@ -1,6 +1,6 @@
 # BookOrbit on Railway: self-hosted digital library and reader with Kobo, KOReader and OPDS sync
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mFiKon)
 
 [BookOrbit](https://github.com/bookorbit/bookorbit) (AGPL-3.0) is a self-hosted library for ebooks, comics and audiobooks: a web reader, metadata and covers, shelves, reading stats, Kobo sync, a KOReader plugin and OPDS. This template runs the official image with Postgres + pgvector, the way upstream's docker-compose does (the optional TTS / read-aloud workers are left out).
 
